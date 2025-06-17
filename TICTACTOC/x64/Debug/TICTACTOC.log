@@ -1,0 +1,3 @@
+﻿  TICTACTOC.cpp
+C:\Users\andro\Desktop\TICTACTOC\TICTACTOC\TICTACTOC.cpp(87,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TICTACTOC.vcxproj -> C:\Users\andro\Desktop\TICTACTOC\x64\Debug\TICTACTOC.exe
